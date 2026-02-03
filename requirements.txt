@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+nltk
+plotly
+wordcloud
+matplotlib
+pytest
+jupyter
